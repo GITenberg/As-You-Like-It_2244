@@ -1,0 +1,34 @@
+_repo: As-You-Like-It_2244
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: Rosalind, daughter of the deposed Duke Senior, is exiled from the court
+  by her wicked uncle. Disguising herself as a young man and accompanied by her cousin
+  Celia and their loyal fool Touchstone, she takes refuge in the Forest of Arden.
+  In the forest Rosalind meets young Orlando with whom she is in love, but her male
+  disguise complicates matters, especially when Rosalind finds she has unwittingly
+  attracted the shepherdess Phebe. --From publisher's description.
+gutenberg_issued: '2000-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2244'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Exiles -- Drama'
+- !lcc 'PR'
+- !lcsh 'Comedies'
+- !lcsh 'Pastoral drama'
+- !lcsh 'Fathers and daughters -- Drama'
+title: As You Like It
+url: http://www.gutenberg.org/ebooks/2244
