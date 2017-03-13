@@ -1,5 +1,8 @@
 _repo: As-You-Like-It_2244
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shakespeare, William
@@ -17,6 +20,8 @@ description: Rosalind, daughter of the deposed Duke Senior, is exiled from the c
   In the forest Rosalind meets young Orlando with whom she is in love, but her male
   disguise complicates matters, especially when Rosalind finds she has unwittingly
   attracted the shepherdess Phebe. --From publisher's description.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2244#As-You-Like-It
 gutenberg_issued: '2000-07-01'
 gutenberg_type: Text
 identifiers:
